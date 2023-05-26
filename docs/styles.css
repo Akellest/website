@@ -1,1 +1,47 @@
 /* css styles */
+/* Добавьте следующие правила для изменения цвета фона и текста */
+body {
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+/* Измените стиль ссылок */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Измените цвет шапки навигации */
+.navbar {
+  background-color: #007bff;
+}
+
+/* Измените цвет заголовка страницы */
+h1 {
+  color: #007bff;
+}
+
+/* Измените стиль изображений */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Измените цвет фона боковой панели */
+#quarto-margin-sidebar {
+  background-color: #f8f8f8;
+}
+
+/* Измените цвет фона секций */
+section {
+  background-color: #fff;
+}
+
+/* Измените цвет списка */
+ul {
+  color: #333;
+}
