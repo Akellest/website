@@ -23,4 +23,5 @@ jobs:
         username: ${{ secrets.SERVER_USERNAME }}
         password: ${{ secrets.SERVER_PASSWORD }}
       # Другие настройки для доставки приложения на сервер
+      
 
